@@ -1,0 +1,31 @@
+
+
+
+body
+{
+background-color:#f4eee8;
+}
+hr{
+  background-color: inherit;
+
+  border-style: dotted;
+
+  border-color: grey;
+  width: 10%;
+  border-width: 3px;
+}
+
+h1
+{
+
+color:  #325288;
+}
+h3
+{
+  color: #325288;
+}
+
+.myimg{
+  height:100px;
+  width: 100px;
+}
